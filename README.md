@@ -1,4 +1,4 @@
-# AndroidTwoWayDataBinding
+# Android Two-Way Data Binding
 
 Easy example showing how to create TwoWay Data Binding using Android Data Binding Library.
 
